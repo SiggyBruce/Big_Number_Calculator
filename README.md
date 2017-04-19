@@ -1,2 +1,4 @@
 # Big Number Calculator
-A calculator that adds and subtracts large numbers using an implementation of a stack. Created with Java and the Swing GUI library.
+A calculator that adds and subtracts large numbers using an implementation of a stack.
+
+Written in Java.
